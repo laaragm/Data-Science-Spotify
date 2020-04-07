@@ -1,5 +1,6 @@
 # Data-Science-Spotify
 Clustering Spotify songs
+
 To summarize the content of this Notebook:
 1. Getting data from Spotify using Spotify Web API
 2. Data analysis
