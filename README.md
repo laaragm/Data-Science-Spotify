@@ -1,5 +1,5 @@
 # Data-Science-Spotify
-Clustering Spotify songs
+Clustering songs from my Spotify playlist
 
 To summarize the content of the Notebook:
 1. Getting data from Spotify using Spotify Web API
